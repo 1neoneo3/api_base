@@ -1,4 +1,4 @@
-Simple Go Web Server with Echo
+#Simple Go Web Server with Echo
 
 This repository contains a simple web server example built with the Go language and the Echo framework. The server handles basic HTTP GET requests and returns a response of "Hello, World!".
 Features
@@ -7,7 +7,7 @@ Features
     Echo Framework: Supports efficient HTTP server construction
     Concise Routing: Responds to GET requests on the root path (/)
 
-Getting Started
+#Getting Started
 
 To use this project, you need to have Go language and the Echo framework installed.
 Prerequisites
@@ -15,7 +15,7 @@ Prerequisites
     Go language (Version 1.x)
     Echo Framework
 
-Installation
+#Installation
 
     Clone this repository:
 
@@ -29,7 +29,7 @@ bash
 
     cd [repository name]
 
-Execution
+#Execution
 
 Run the following command in the repository directory to start the server:
 
